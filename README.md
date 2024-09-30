@@ -1,2 +1,2 @@
-# eBay_clone
-ecommerce ebay
+# project-1-
+ ebay_clone
